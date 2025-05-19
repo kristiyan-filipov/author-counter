@@ -3,7 +3,7 @@ name: Build macOS Electron App
 on:
   push:
     branches:
-      - main   # or whatever branch you want to trigger on
+      - main 
 
 jobs:
   build-macos:
