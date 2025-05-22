@@ -8,5 +8,5 @@ Takes a google scholar profile page and author name as it appears in papers, and
 ---
 
 # Usage
-You can use the website at: https://author-counter.netlify.app/, or you can download the application, by downloading the appropriate installation file for your operating system from the [releases page](https://github.com/kristiyan-filipov/authors-counter/releases/) and run it to install the application!
+You can use it through the [website](https://author-counter.netlify.app/), or you can download the application, by downloading the appropriate installation file for your operating system from the [releases page](https://github.com/kristiyan-filipov/authors-counter/releases/) and run it to install the application!
 
