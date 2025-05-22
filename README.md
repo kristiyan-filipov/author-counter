@@ -1,5 +1,5 @@
 # Author counter
-Takes a google scholar profile page and author name as it appears in papers, and tells you the total amount of articles the author is credited in, and the amount of articles they appear in as the first or second name.
+Takes a google scholar profile page and author name as it appears in papers, and tells you the total amount of articles the author is credited in, and the amount of articles they appear in as the first or second name. Live site: https://author-counter.netlify.app/
 
 ---
 
