@@ -1,0 +1,13 @@
+{
+  "name": "analyze-author",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "analyze-author.js",
+  "scripts": {
+    "start": "node analyze-author.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "serpapi": "^2.1.0"
+  }
+}
