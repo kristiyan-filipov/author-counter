@@ -11,7 +11,6 @@ A desktop app (Electron + React) that looks up a researcher's Google Scholar pro
    - **Total articles** found on the profile
    - **First or second author count** - articles where the name appears in position 1 or 2
 
-<img width="1763" height="926" alt="image" src="https://github.com/user-attachments/assets/56ca1437-7554-4fae-a026-4074d7244727" />
 <img width="1769" height="941" alt="image" src="https://github.com/user-attachments/assets/abc0a305-40e5-40e6-85b8-c0d41810f493" />
 
 ---
